@@ -25,4 +25,4 @@ majr is an early-stage startup building the best place to light-up human creativ
 7. Strong sense of logic and critical thinking skills; facts and data-driven approach to problem-solving
 8. Strong sense of internet/technical products and curiosity for innovations
 
-If you'd like to apply, please send your resume and an introduction to [mailto:hiring@majr.tech](hiring@majr.tech). 
+If you'd like to apply, please send your resume and an introduction to [hiring@majr.tech](hiring@majr.tech). 
