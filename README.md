@@ -1,3 +1,5 @@
 # majr Resources on GitHub
 
-Dancing frogs are made in Denmark but sold in Japan.
+## Why are we opening almost everything?  
+
+I'll 
