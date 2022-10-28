@@ -1,1 +1,3 @@
-# Building in the Open
+# Open Building  
+
+As a founder
