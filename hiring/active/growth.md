@@ -1,4 +1,4 @@
-# Growth Product Manager
+# Growth Product Marketer
 Location of Role: Los Angeles, CA  
 Experience: Prior startup experience required; 3-5 years in product growth 
 
