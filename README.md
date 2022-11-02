@@ -1,15 +1,31 @@
-# majr Resources on GitHub
+# majr on GitHub
 
-### Why are we using github for business and marketing docs?  
+### **What's majr?**
+majr is better way for creators and fans to connect around what matters most - creativity. We started majr because we believe the the strongest communities are the ones with the most diverse and vibrant ideas. We build everything with that mission in mind.
+<BR>
+### **Why are we using github for business and marketing docs?**  
+While our primary focus is on building products and services, we think we can do more.  
   
-I'm excited that [majr](https://majr.app) will be operating almost entirely in the open. This includes how we frame business, marketing and operations. Isn't that insanity for an early-stage startup? No. Let me explain. 
+One of the ways we can do more is by sharing how we approach building and operating this company. Here you will find many of our frameworks, operational models and marketing docs. You will find things that have worked - and things that have not. 
 
-#### There's only proprietary configuration. Proprietary information is dead (aka just like privacy.)  
-- In a world with infinite information and sense-making signals, the only thing that matters is config
-- Finished goods are over. Almost all IP is always iterating. True with code, true with business docs  
-- Transforms take time. No startup has time to parse internal strategy |  internal comms | external comms and so on. Collapse down to one whenever possible 
-- Tooling is a huge distraction. No more Notes -> Notion -> Slack -> webflow and repeat. Simple web docs work 
-- Context matters. The repository medium will unlock tracing in a way that other tools cannot 
-- Publishers win. Publish everything you can
+By using GitHub, you can track changes, understand context and fork what might work for you. 
+<BR><BR>
+**What will live on GitHub?**  
+You'll find everything non-product maintained here, just like any other code repository. For example:<BR>
+- About us & Team 
+- Terms of Use & Privacy Policy
+- Blogs
+- Test Template & Results
+- Investor Updates 
+
+We'll be using channels like Twitter as notification mediums for updates and announcements, with source maintained on GitHub. 
+
+There are two exceptions.
+The first exception is product education. That said, product edu will be built into the product vs. being maintained in a seperate hosting environment. <BR>
+The second is any sensitive financial, customer and sales data, financial data and human resources. This makes obvious sense, but we strive to be maximally open. 
+
+**Looking for more information?** 
+- majr on Twitter
+- [Contact us](mailto:jamie@majr.tech)
 
 
