@@ -28,7 +28,7 @@ While his primary role in this project is as a researcher and tech developer, he
 
 
 
-##Advisors##
+## Advisors
 
 **Pat Cruz**,  Artistic Director & CEO of Harlem Stage 
 
