@@ -1,6 +1,6 @@
-# Test Name
+# Merchandising at Live Events
 
-| Title | Experiment Title |
+| Title | Acquiring at Live Events with QR Code |
 |----------------|--------------|
 | **Hypothesis**       | This affects that. If we do this, it will affect that in the following way(s).         |
 | **Test**     | We are executing foo          |
@@ -10,6 +10,6 @@
 | **Learning**           |  I  learned this and that            |
 
 
-#### Notes 
-- Data is foo
-- Data is bar
+**Definitions** 
+- Conversion is used to describe click-thru rate from an initial call-to-action, such as a promotional link
+- Acquisition is used to describe the rate of completion for end-actions, e.g. app installs 
