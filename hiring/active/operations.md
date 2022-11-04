@@ -15,8 +15,7 @@ majr is an early-stage startup building the best place to ignite your creativity
 6. Tackle the natural challenges that come with building a company - a willingness to jump into any problem and start looking for solutions
 7. Integrity, high-trust, accounability as you deal with confidential information across company functions
 
-
-This is a contract/freelance role. Contingent on funding, this role has the potential of becoming full-time. 
+This is a contract/freelance role. Contingent on funding, this role has the potential of becoming full-time - taking the foundational work and turning into the company's culture. 
 
 **Basic requirements:** 
 1. Bachelor degree or above 
