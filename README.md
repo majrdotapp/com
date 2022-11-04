@@ -12,11 +12,12 @@ By using GitHub, you can track changes, understand context and fork what might w
 <BR><BR>
 **What will live on GitHub?**  
 You'll find everything non-product maintained here, just like any other code repository. For example:<BR>
+- [Investor Updates](https://github.com/majr-tech/com/tree/main/investor/01-Updates)
 - About us & Team 
 - Terms of Use & Privacy Policy
 - Blogs
 - Test Template & Results
-- Investor Updates 
+
 
 We'll be using channels like Twitter as notification mediums for updates and announcements, with source maintained on GitHub. 
 
