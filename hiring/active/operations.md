@@ -1,28 +1,26 @@
-# Growth Product Marketer
+# Business Manager
 Location of Role: Los Angeles, CA  
-Experience: Prior startup experience required; 3-5 years in product growth 
+Experience: 3-5 years in growth-orientated business environment, experience in management preferred 
 
-### In this role, you will be responsible for driving user acquisition and engagement for growth products.
-&NewLine; 
+### In this role, you will be responsible for growing the company by building world-class ops and business management.
 
-majr is an early-stage startup building the best place to light-up human creativity, beginning with a focus on connecting artists and fans. After spending the last year in user discovery and co-engineering with customers, majr is beginning to launch and test products. We're looking for an experienced and committed growth manager to help bring majr to market. 
+majr is an early-stage startup building the best place to ignite your creativity, beginning with a focus on connecting artists and fans in the music vertical. After spending the last year in user discovery and co-engineering with customers, majr is beginning to launch and test products. We're looking for a get-it-done business manager to help us scale and grow the company.
 
 **You'll be responsible for:**  
-1. Working closely with Product team and engineering to define positioning and messaging for key launch moments; drive process for continous improvements to core marketing messaging 
-3. In collaboration with cross-functional teams, define go-to-market strategy to win new customers in 1:1 and 1:few engagements - across online communities, social, events and influencer outreach 
-4. Collaborate closely with Product team, engineering and other cross-functional teams to drive learnings into product planning
-5. Reach out to early customers; conduct user discovery and assisted onboarding to increase customer satisfaction 
-6. Executive reporting and analysis of work, including recomendations on what to stop and start doing to achieve goals; Analyze product and marketing analytics for trends and experiment results, knowledge of MixPanel, GA, ActiveCampaign, Apple App Store required. 
-7. Experimentation mindset: framing work around hypothesis -> test -> iterate across all work 
+1. Drive the rhythm of the business meetings across marketing/product/engineering. Ensure each team is hitting milestones, objectives, and metrics by discovering issues and help problem-solving 
+2. Build the foundation of operations across payroll, finance, legal and benefits (healthcare, etc.) Lead how the company will operate and scale as the team grows from a core set of founders to a larger team 
+3. Build and manage the financial budget, ensuring we forecast spend with accuracy and manage our costs well 
+5. Executive reporting and analysis of company metrics, largely to support investor meetings, board meetings and business reviews
+6. Tackle the natural challenges that come with building a company - a willingness to jump into any problem and start looking for solutions
 
+
+This is a contract/freelance role. Contingent on funding, this role has the potential of becoming full-time. 
 
 **Basic requirements:** 
-1. Bachelor degree or above, technical field a plus 
-2. 3-5 years of experience in product marketing or product growth 
-3. Highly analytical, laser focused on the needs of the user, able to define product roadmap despite ambiguity and uncertainty, and data oriented but will not freeze if little data is available - you will make a decision
-4. Prior start-up experience required
-6. Familiarity with performance marketing and demand gen concepts 
-7. Strong sense of logic and critical thinking skills; facts and data-driven approach to problem-solving
-8. Strong sense of internet/technical products and curiosity for innovations
+1. Bachelor degree or above 
+2. 3-5 years of experience in growth-stage company
+3. Highly analytical, able cut through ambiguity and uncertainty
+4. Data oriented but will not freeze if little data is available - you will make a decision
+5. Strong sense of logic; facts and data-driven approach to problem-solving
 
 If you'd like to apply, please send your resume and an introduction to [hiring@majr.tech](mailto:hiring@majr.tech)
