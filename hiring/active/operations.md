@@ -1,5 +1,5 @@
 # Business Manager
-Location of Role: Los Angeles, CA  
+Location of Role: Los Angeles, CA 
 Experience: 3-5 years in growth-stage business, experience in management preferred 
 
 ### In this role, you will be responsible for growing the company by building world-class ops and business management.
