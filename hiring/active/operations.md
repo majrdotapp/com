@@ -8,7 +8,7 @@ majr is an early-stage startup building the best place to ignite your creativity
 
 **You'll be responsible for:**  
 1. Leading the rhythm of the business meetings across marketing/product/engineering. Ensure each team is hitting milestones, objectives, and metrics by discovering issues and help problem-solving 
-2. Help with hiring, ensuring we have a strong pipeline of candidates across key roles 
+2. Help with hiring, ensuring we have a strong pipeline of candidates across key open roles  
 3. Build the foundation of operations across payroll, finance, legal and benefits (healthcare, etc.) Lead how the company will operate and scale as the team grows from a core set of founders to a larger team 
 4. Build and manage the financial budget, ensuring we forecast spend with accuracy and manage our costs well 
 5. Executive reporting and analysis of company metrics, largely to support investor meetings, board meetings and business reviews
