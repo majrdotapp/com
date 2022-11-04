@@ -4,7 +4,7 @@ Experience: 3-5 years in growth-stage business, experience in management preferr
 
 ### In this role, you will be responsible for growing the company by building world-class ops and business management.
 
-majr is an early-stage startup building the best place to ignite your creativity, beginning with a focus on connecting artists and fans in the music vertical. After spending the last year in user discovery and co-engineering with customers, majr is beginning to launch and test products. We're looking for a get-it-done business manager to help us scale and grow the company.
+majr is an early-stage startup building the best place to ignite your creativity, beginning with a focus on connecting artists and fans in the music vertical. After spending the last year in user discovery and co-engineering with customers, majr is beginning to launch and test products. We're looking for a get-it-done business manager to help us scale and grow the company. This role will work primarily with the CEO. 
 
 **You'll be responsible for:**  
 1. Leading the rhythm of the business meetings across marketing/product/engineering. Ensure each team is hitting milestones, objectives, and metrics by discovering issues and help problem-solving 
