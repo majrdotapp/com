@@ -1,4 +1,4 @@
-# Toast please, hold the avacado
+# Toast please, hold the avocado
 
 There's been a wave of layoffs in the tech sector. Many suspect more are coming. It is always very difficult when anyone loses their job and faces real economic uncertainty. It is one of the most difficult situations anyone can face in life. On the other hand, one positive effect is that many talented people are now decoupled from bigger tech firms. When they find new jobs - and many will -  we will likely see a wave of disruptive innovation from the smaller, more adventurous firms who hire them. This would have been unlikely if all that talent stayed within larger, risk-averse firms.
 
