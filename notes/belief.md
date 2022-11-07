@@ -15,4 +15,4 @@ Startups are a long-term bet and people who work at startups often forego lucrat
 **Closing**  
 For this mindset, one analogy I like is the choice of heading to your favorite cafe and ordering toast, *hold the avacado*. One option is likely free, the other is $16. Both fill you up. To be clear I'm no fan of monastic living or scarcity mindset, so I assure you that nothing beats the taste of freshly baked warm bread.
 
-In closing, let me state something that I suspect many people believe: the world needs some new ideas. Startups continue to be one of the best vehicles to create and develop new ideas. In the long run, this reconfiguration of talent from large to small firms will only accelerate the rate of new ideas - something that is decidely a very good thing. 
+In closing, let me state something that I suspect many people believe: the world needs some new ideas. Startups continue to be one of the best vehicles to create and develop new ideas. In the long run, this reconfiguration of talent from large to small firms will only accelerate the rate of new ideas - something that is decidedly a very good thing. 
