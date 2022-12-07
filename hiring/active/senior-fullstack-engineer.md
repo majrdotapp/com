@@ -19,6 +19,7 @@ majr is an early-stage startup building the best place to light-up human creativ
 
 * 5+ years of professional software development experience
 * A passion for building great products that make users happy
+* Good communication skills and spirit of collaboration
 * High degree of ownership and a track record of launching features in a fast-paced environment
 * Experience with our stack (Typescript, React, Node.js, GraphQL, Postgres)
 * Knowledge of modern web application architecture
@@ -39,3 +40,4 @@ majr is an early-stage startup building the best place to light-up human creativ
 * Remote friendly
 * Health, Dental & Vision Plans
 * Opportunity to come in on the ground floor, build an awesome product, and grow with the company
+* Join a small team of passionate people with a culture of curiosity, collaboration and experimentation
