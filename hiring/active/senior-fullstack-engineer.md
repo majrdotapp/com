@@ -43,4 +43,4 @@ majr is an early-stage startup building the future of media collab between creat
 
 
 
-**Apply by sending your resume with a thoughtful, personalized cover letter to [hiring@majr.tech]().**  Applications will only be considered when a complete, up-to-date resume and opportunity-specific cover letter are included. Cover letter should address why you're interested in the role, this company and why your background and skills are a strong fit for consideration. 
+**Apply by sending your resume with a thoughtful, personalized cover letter to [hiring@majr.tech](mailto:hiring@majr.tech?subject=Senior%20Fullstack%20Engineer).**  Applications will only be considered when a complete, up-to-date resume and opportunity-specific cover letter are included. Cover letter should address why you're interested in the role, this company and why your background and skills are a strong fit for consideration. 
