@@ -1,6 +1,4 @@
-32 lines (23 sloc)  1.65 KB
-
-# majr Blogs and Announcements
+# Blogs and Announcements
 
 ### **What's majr?**
 majr is better way for creators and fans to connect around what matters most - creativity. We started majr because we believe the the strongest communities are the ones with the most diverse and vibrant ideas. We build everything with that mission in mind.
