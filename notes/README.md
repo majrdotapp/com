@@ -7,8 +7,8 @@ majr is better way for creators and fans to connect around what matters most - c
 - [January 2023 Update](https://github.com/majr-tech/com/blob/main/notes/artists/jan2023.md)
 
   
-**For Everyone** 
-- [Beliefs]
+**On Culture** 
+- [Hiring & Avocados](https://github.com/majr-tech/com/blob/main/notes/belief.md)
   
 **For Investors** 
 - [November 22](https://github.com/majr-tech/com/blob/main/notes/investor/01-Updates/11-2-22.md)
